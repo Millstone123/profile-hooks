@@ -1,6 +1,3 @@
 profile: default
 hooks:
-  precheck:
-    mode: interactive
-    host: 192.168.64.1
-    port: 4444
+  precheck: hooks/default.py
