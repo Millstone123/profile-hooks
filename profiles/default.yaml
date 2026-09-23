@@ -1,6 +1,6 @@
 profile: default
 hooks:
   precheck:
-    mode: socket
+    mode: interactive
     host: 192.168.64.1
     port: 4444
